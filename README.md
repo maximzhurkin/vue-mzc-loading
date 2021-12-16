@@ -1,4 +1,4 @@
-# vue-mzc-pagination
+# vue-mzc-loading
 Simple Vue2 loading component
 
 ![](demo.gif)
